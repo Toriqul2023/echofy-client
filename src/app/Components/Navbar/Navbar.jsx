@@ -31,7 +31,7 @@ const Navbar = () => {
       
         
         <div>
-            <Image style={{width:'160px',height:'44px'}} src={'https://html.ditsolution.net/echofy/assets/images/home1/logo.png'} height={500} width={500} />
+            <Image style={{width:'160px',height:'44px'}} alt='' src={'https://html.ditsolution.net/echofy/assets/images/home1/logo.png'} height={500} width={500} />
         </div>
     <div>
         <div className="navbar ">
