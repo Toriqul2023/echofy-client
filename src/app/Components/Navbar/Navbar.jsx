@@ -26,7 +26,7 @@ const Navbar = () => {
   return (
     <>
     
-      <div className={`w-[100%]  fixed top-[50px] transition ease-in delay-2s ${active ? 'bg-black top-[0px]':''} py-4 h-[100px] z-[999]`}>
+      <div className={`w-[100%]  fixed top-[50px] transition ease-in delay-2s ${active ? 'bg-black top-[0px]':'top-[50px]'} py-4 h-[100px] z-[999]`}>
         <div className='w-[70%] flex mx-auto justify-between items-center'>
       
         
