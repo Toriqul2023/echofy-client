@@ -1,0 +1,15 @@
+#animatedleaf{
+    animation: leaf infinite linear ;
+    transition-duration: 2s;
+}
+
+@keyframes leaf{
+    from{
+        position: absolute;
+        top:80px
+    }
+    to{
+        position: absolute;
+        top:60px
+    }
+}
